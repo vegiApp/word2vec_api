@@ -21,6 +21,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+models
+word2vec_pip_env
 
 # Installer logs
 pip-log.txt

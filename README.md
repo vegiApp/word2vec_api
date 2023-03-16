@@ -2,7 +2,7 @@ word2vec-api
 ============
 
 Simple web service providing a word embedding API. The methods are based on Gensim Word2Vec implementation. Models are passed as parameters and must be in the Word2Vec text or binary format. Updated to run on Python 3.
-* Install Dependencies   
+* Install Dependencies [venvs in pip](https://www.notion.so/gember/Python-Cheats-8d7b0cc6f58544ef888ea36bb5879141?pvs=4#03585a911a79487db4004f0f8640b9c6)
 ```
 pip install -r requirements.txt
 ```
